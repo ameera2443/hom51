@@ -1,0 +1,27 @@
+
+.Teams{
+    color: black;
+    text-align: center;
+    background-color: white;
+}
+
+.T{
+    float: left;
+    width: 33.33%;
+    background-color: white;
+    text-align: center;
+}
+.clearfix{
+    clear: left;    
+}
+
+
+
+
+
+
+
+
+
+
+
